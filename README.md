@@ -22,6 +22,7 @@ As imagens deverão apresentar a montagem na protoboard e os testes de funcionam
 
 
 Wokmi: Projeto MVP em produção (https://wokwi.com/projects/480239124798622721)
+
 🎯 3. Fases e Evolução do Projeto
 
 O desenvolvimento do SenseWear está dividido em três etapas principais:
