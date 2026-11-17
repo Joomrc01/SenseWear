@@ -69,6 +69,9 @@ flowchart TD
     E --> A
     F --> A
 
+4.6. Codigo fonte usado
+Codigo do Arduino UNO ultilizado: (https://docs.google.com/document/d/17HU5eG1FfUAegzvEgiAoGwq_OfbLWfOFdTry8eUSSTk/edit?usp=sharing)
+
 🛠️ 5. Componentes do Projeto
 5.1. Componentes Utilizados no MVP Atual (Bancada)
 Componente	Função	Observação
