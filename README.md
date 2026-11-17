@@ -21,6 +21,9 @@ Esta seção será utilizada para documentar visualmente o desenvolvimento do pr
 As imagens deverão apresentar a montagem na protoboard e os testes de funcionamento dos componentes.
 
 ![Montagem do SenseWear](78d0b2eb-7c52-47df-bbc2-efc1d18800e0.jfif)
+![Montagem do SenseWear](ae77f9f8-5386-4ea7-80a1-7b3d4c6c4827.jfif)
+![Montagem do SenseWear](c18b51a4-7f48-4877-8e64-016e74ee4eba.jfif)
+![Montagem do SenseWear](ff24cfa8-eae9-471b-90a1-197bdc222a7f.jfif)
 
 Wokmi: Projeto MVP em produção (https://wokwi.com/projects/480239124798622721)
 
